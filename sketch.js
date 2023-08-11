@@ -148,7 +148,7 @@ function movimentaBolinha() {
     pontosOponente += 1;
     somPonto.play();
   }
-  if (xBolinha > window.innerWidth - 15){
+  if (xBolinha > window.innerWidth - 20){
     meusPontos += 1;
     somPonto.play();
   }
