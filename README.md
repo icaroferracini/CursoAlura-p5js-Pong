@@ -11,4 +11,4 @@ O primeiro jogador a fazer 5 pontos, ganha a partida.
 - Tecla [shift] coloca o jogo em modo automático.
 
 ### Link para jogar
-Você pode jogar em: https://icaroferracini.com/estudos/pong-p5js/index.html
+Você pode jogar em: https://icaroferracini.com/estudos/p5js-pong/
